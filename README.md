@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github page](https://github.com/rahmi1016/news-homepage)
-- Live Site URL: [live site](https://rahmi1016.github.io/news-homepage/)
+- Solution URL: [github page](https://github.com/rahmi1016/news-hompage)
+- Live Site URL: [live site](https://rahmi1016.github.io/news-hompage/)
 
 ## My process
 
